@@ -20,8 +20,8 @@
 
 | | | |
 |:---:|:---:|:---:|
-| <img src="assets/examples/01-roll.jpg" width="260"><br>大力士 ·「扛不动就滚」 | <img src="assets/examples/02-spy.jpg" width="260"><br>特工倒吊 ·「这口算公差」 | <img src="assets/examples/03-bath.jpg" width="260"><br>杯里泡澡 ·「这澡有点凉」 |
-| <img src="assets/examples/04-night-flight.jpg" width="260"><br>场景 · 骑云飞行 ·「今晚不落地」 | <img src="assets/examples/05-hide.jpg" width="260"><br>群戏 · 捉迷藏 ·「藏得真好」 | <img src="assets/examples/06-tug.jpg" width="260"><br>群戏 · 拔河 ·「谁松手谁请客」 |
+| <img src="assets/examples/01-roll.jpg" width="260"><br>大力士 ·「扛不动就滚」 | <img src="assets/examples/02-spy.jpg" width="260"><br>特工倒吊 ·「我只偷一口」 | <img src="assets/examples/03-bath.jpg" width="260"><br>杯里泡澡 ·「这澡有点凉」 |
+| <img src="assets/examples/04-tower.jpg" width="260"><br>场景 · 爬塔偷灯 ·「这口有点高」 | <img src="assets/examples/05-hide.jpg" width="260"><br>群戏 · 捉迷藏 ·「藏得真好」 | <img src="assets/examples/06-tug.jpg" width="260"><br>群戏 · 拔河 ·「谁松手谁请客」 |
 
 ## 工作方式
 
@@ -41,7 +41,7 @@
 1. **看**：先判断照片拍的是物件、场景还是一组东西。
 2. **撕**：物件只留东西本身（手和背景都去掉），场景整张撕成纸片，一组东西就每件各撕一张。
 3. **铺**：选一种纸色，再从照片里挑一个颜色灰化后当强调色。
-4. **养**：填一张配方卡，写明小怪兽的形态、颜色、记号、表情、剧情和镜头。
+4. **养**：照着主体的外形捏出一只矮胖的小怪兽（圆顶杯盖变软圆团、芒果粒变软糖方块），再填配方卡：颜色、记号、表情、剧情和镜头。可爱永远排第一，搞怪靠表情和动作。
 5. **写**：一句不超过 8 个字的心里话。调皮的用歪扭儿童字，安静的用宋体。
 6. **画**：按四层纸的顺序组装提示词，交给生图工具。
 7. **验**：检查归类、毛边、怪兽和字，哪项有问题只修哪项。
