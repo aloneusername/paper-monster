@@ -1,0 +1,4 @@
+interface:
+  display_name: "纸怪兽 Paper Monster"
+  short_description: "照片撕成纸片 + 蜡笔小怪兽演一格小剧场 + 一句心里话"
+  default_prompt: "Use $paper-monster to turn this photo into a torn-paper poster where a crayon monster acts out a tiny scene with the subject, plus one funny line."
